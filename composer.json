@@ -1,5 +1,5 @@
 {
-  "name": "tencentcloudbase/tcb-php-sdk",
+  "name": "yagas/tcb-php-sdk",
   "description": "tencent cloud base sdk for php",
   "version": "1.0.2",
   "type": "library",
